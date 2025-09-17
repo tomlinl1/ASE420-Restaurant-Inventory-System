@@ -40,5 +40,5 @@ By creating a scalable inventory system that can be remotely accessed from my ho
 Week 1 ( 9/15 - 9/21 )
 Goals: Creating rough UI and adding functions of add, update, and remove items.
 - Feature #1: Making the logic to add, update, and remove items
-  - Requirement #2: 
+  - Requirement #2: As a software designer, I want to have an easy to follow and engaging UI, so my employees can use the software with ease.
   - Plan:  Secure a rough working version that has a UI and allows users to add inventory items.
