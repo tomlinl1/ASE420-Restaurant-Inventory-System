@@ -9,6 +9,12 @@ We all have very little time in the day to go and check on inventory, and this a
 # How do I solve this problem? #
 By creating a scalable inventory system that can be remotely accessed from my home and running the app on a tablet at the restaurant, this would create a more accurate reading of inventory and limit the need to always be at the pizza restaurant.
 
+# Tech Stack #
+- UV
+- Flask
+- SQLite
+- HTML/CSS for the UI/UX (Possibly using Hugo)
+
 # Sprint 1 #
 Week 1 ( 9/15 - 9/21 )
 Goals: Creating rough UI and adding functions of add, update, and remove items.
